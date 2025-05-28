@@ -76,6 +76,11 @@ L'application propose une navigation via un menu latéral :
 - **Ajouter une réservation 🛎️** : Sélection d'un client et d'une chambre pour réserver
 
 ---
+## 🎥 Vidéo de démonstration
+
+Regardez la vidéo de démonstration de l'application ici :  
+👉 [Cliquez ici pour voir la vidéo](https://youtu.be/EXEMPLE_LIEN)
+
 
 ## 👩‍💻 Réalisé par
 
