@@ -79,7 +79,7 @@ L'application propose une navigation via un menu latéral :
 ## 🎥 Vidéo de démonstration
 
 Regardez la vidéo de démonstration de l'application ici :  
-👉 [Cliquez ici pour voir la vidéo](https://youtu.be/EXEMPLE_LIEN)
+👉 [Cliquez ici pour voir la vidéo](https://www.youtube.com/watch?v=bPoyoFRM4Uo)
 
 
 ## 👩‍💻 Réalisé par
